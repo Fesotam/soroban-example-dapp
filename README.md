@@ -1,3 +1,9 @@
+Soroban Crowdfunding DApps are decentralized applications that allow users to pledge funds to a crowdfund campaign directly from their digital wallets, without the need for intermediaries ¹. The process involves the following steps ²:
+- Building and Deploying the Soroban Token Smart Contract
+- Initializing a Token Contract
+- Minting Tokens
+- Automating Initialization with Scripts
+
 Soroban Crowdfunding Dapp Example
 =================================
 
