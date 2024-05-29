@@ -3,7 +3,7 @@ Soroban Crowdfunding DApps are decentralized applications that allow users to pl
 - Initializing a Token Contract
 - Minting Tokens
 - Automating Initialization with Scripts
-
+   
 Soroban Crowdfunding Dapp Example
 =================================
 
